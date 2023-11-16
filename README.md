@@ -8,7 +8,7 @@ Le fichier PDF du livre peut se télécharger [ici](Ada_et_les_nombres.pdf).
 
 ---
 
-This repository contains the sources of the book "Ada et les Nombres" writen par Julien Siebert.
+This repository contains the sources of the book "Ada and the Numbers" writen par Julien Siebert.
 
 The PDF file of the book can be downloaded [here](Ada_et_les_nombres_EN.pdf).
 
